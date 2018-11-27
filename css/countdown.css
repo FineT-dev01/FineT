@@ -1,7 +1,7 @@
 
 
 #countdown {
-	width: 465px;
+	width: 365px;
 	height: 152px;
 	text-align: center;
 	background: #222;
@@ -63,7 +63,7 @@
 	}
 
 		#countdown #tiles11 > span {
-			width: 92px;
+			width: 62px;
 			max-width: 92px;
 			font: bold 48px 'Droid Sans', Arial, sans-serif;
 			text-align: center;
@@ -116,7 +116,7 @@
 	}
 
 		#countdown .labelscc li {
-			width: 102px;
+			width: 72px;
 			font: bold 15px 'Droid Sans', Arial, sans-serif;
 			color: #f47321;
 			text-shadow: 1px 1px 0px #000;

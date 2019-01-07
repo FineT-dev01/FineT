@@ -1,4 +1,4 @@
-var target_date = new Date("Jan 01,2019").getTime() + (1000 * 3600 * 48); // set the countdown date
+var target_date = new Date("Mar 01,2019").getTime() + (1000 * 3600 * 48); // set the countdown date
 var days, hours, minutes, seconds; // variables for time units
 
 var countdown = document.getElementById("tiles11"); // get tag element
